@@ -1,0 +1,18 @@
+{
+  "required": false,
+  "package": "live.kadalyn.unifiedbrewing.mixin.irons",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "AlchemistCauldronFluidHandlerMixin",
+    "AlchemistCauldronTileMixin",
+    "BrewAlchemistCauldronRecipeMixin",
+    "EmptyAlchemistCauldronRecipeMixin",
+    "PotionFluidMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "overwrites": {
+    "requireAnnotations": true
+  }
+}

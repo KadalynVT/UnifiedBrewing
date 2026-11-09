@@ -1,0 +1,10 @@
+{
+  "values": [
+    "minecraft:glass_bottle",
+    "unifiedbrewing:empty_flask",
+    {
+      "id": "hexalia:rustic_bottle",
+      "required": false
+    }
+  ]
+}

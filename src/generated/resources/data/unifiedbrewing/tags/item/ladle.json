@@ -1,0 +1,13 @@
+{
+  "values": [
+    "unifiedbrewing:blazing_ladle",
+    {
+      "id": "hexalia:ladle",
+      "required": false
+    },
+    {
+      "id": "farmers_spell:cherry_spoon",
+      "required": false
+    }
+  ]
+}

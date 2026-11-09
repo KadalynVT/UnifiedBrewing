@@ -1,0 +1,24 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:item_exists",
+      "item": "biomesoplenty:blood_bucket"
+    },
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "irons_spellbooks"
+    }
+  ],
+  "type": "irons_spellbooks:alchemist_cauldron_fill",
+  "fluid": {
+    "amount": 1000,
+    "id": "irons_spellbooks:blood"
+  },
+  "input": {
+    "item": "biomesoplenty:blood_bucket"
+  },
+  "result": {
+    "count": 1,
+    "id": "minecraft:bucket"
+  }
+}

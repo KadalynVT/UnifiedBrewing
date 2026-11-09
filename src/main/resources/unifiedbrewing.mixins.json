@@ -1,0 +1,21 @@
+{
+  "required": false,
+  "package": "live.kadalyn.unifiedbrewing.mixin.minecraft",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "BrewingStandBlockEntityMixin",
+    "BrewingStandBlockMixin",
+    "BrewingStandMenuMixin",
+    "PotionBrewingMixin",
+    "SlotAccessor"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "overwrites": {
+    "requireAnnotations": true
+  },
+  "client": [
+    "BrewingStandScreenMixin"
+  ]
+}

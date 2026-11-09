@@ -1,0 +1,42 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:item_exists",
+      "item": "alexsmobs:blood_sac"
+    },
+    {
+      "type": "neoforge:item_exists",
+      "item": "irons_spellbooks:blood_vial"
+    }
+  ],
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_blood_sac": {
+      "conditions": {
+        "items": [
+          {
+            "items": "alexsmobs:blood_sac"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "irons_spellbooks:blood_vial"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_blood_sac"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "irons_spellbooks:blood_vial"
+    ]
+  }
+}

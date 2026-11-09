@@ -1,0 +1,32 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:item_exists",
+      "item": "herbalbrews:flask"
+    },
+    {
+      "type": "unifiedbrewing:config",
+      "config": "difficultFlaskRecipes",
+      "value": "false"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "x": {
+      "item": "minecraft:glass_bottle"
+    }
+  },
+  "pattern": [
+    "   ",
+    "x x",
+    " x "
+  ],
+  "result": {
+    "components": {
+      "minecraft:custom_model_data": 5
+    },
+    "count": 1,
+    "id": "unifiedbrewing:empty_flask"
+  }
+}

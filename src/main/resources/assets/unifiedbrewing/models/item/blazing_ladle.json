@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "unifiedbrewing:item/blazing_ladle"
+  }
+}

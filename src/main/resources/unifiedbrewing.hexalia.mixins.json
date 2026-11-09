@@ -1,0 +1,16 @@
+{
+  "required": false,
+  "minVersion": "0.8",
+  "package": "live.kadalyn.unifiedbrewing.mixin.hexalia",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "SmallCauldronBlockEntityMixin",
+    "SmallCauldronBlockEntityRendererMixin",
+    "SmallCauldronBlockMixin",
+    "SmallCauldronContentsMixin",
+    "SmallCauldronRecipeMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

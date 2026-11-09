@@ -1,0 +1,21 @@
+{
+  "required": false,
+  "minVersion": "0.8",
+  "package": "live.kadalyn.unifiedbrewing.mixin.herbalbrews",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "CauldronBlockEntity$1",
+    "CauldronBlockEntityMixin",
+    "CauldronBlockMixin",
+    "CauldronGuiHandlerMixin",
+    "CauldronRecipeMixin",
+    "FuelSlotMixin",
+    "PotionSlotMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "client": [
+    "CauldronGuiMixin"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "item.unifiedbrewing.empty_flask": "Empty Flask",
+  "item.unifiedbrewing.blazing_ladle": "Blazing Ladle",
+  "item.unifiedbrewing.depleted_blaze_powder": "Depleted Blaze Powder",
+  "item.minecraft.potion.effect.herbal_tea": "Mundane Herbal Tea",
+  "item.minecraft.splash_potion.effect.herbal_tea": "Mundane Splash Potion of Herbal Tea",
+  "item.minecraft.lingering_potion.effect.herbal_tea": "Mundane Lingering Potion of Herbal Tea",
+  "item.minecraft.tipped_arrow.effect.herbal_tea": "Arrow of Herbal Tea",
+
+  "tooltip.herbalbrews.cauldron.input_slot": "Add §e[Herbal Infusion]§r as Catalyst or another ingredient for Catalyst-free mixes.",
+  "tooltip.unifiedbrewing.cauldron.remaining_fuel": "Remaining Infusions: %s",
+  "tooltip.unifiedbrewing.brewing_stand.slots_filled": "%s / 4 outputs filled",
+
+  "sound.unifiedbrewing.bottle_whiff": "Bottle whiffs",
+
+  "unifiedbrewing.configuration.title": "Unified Brewing Configs",
+  "unifiedbrewing.configuration.section.unifiedbrewing.common.toml": "Unified Brewing Configs",
+  "unifiedbrewing.configuration.section.unifiedbrewing.common.toml.title": "Unified Brewing Configs",
+  "unifiedbrewing.configuration.items": "Item List",
+  "unifiedbrewing.configuration.logDirtBlock": "Log Dirt Block",
+  "unifiedbrewing.configuration.magicNumberIntroduction": "Magic Number Text",
+  "unifiedbrewing.configuration.magicNumber": "Magic Number"
+}

@@ -1,0 +1,8 @@
+{
+  "bottle_whiff": {
+    "subtitle": "sound.unifiedbrewing.bottle_whiff",
+    "sounds": [
+      "unifiedbrewing:bottle_whiff"
+    ]
+  }
+}

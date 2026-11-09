@@ -1,0 +1,10 @@
+// 1.21.1	2026-11-13T17:16:23.1746628	Tags for minecraft:item mod id unifiedbrewing
+35133e95f1c8fdd7a1c21afcc231fc0bffefb9a8 data/c/tags/item/potions.json
+35133e95f1c8fdd7a1c21afcc231fc0bffefb9a8 data/c/tags/item/potions/bottle.json
+6c7e2b93e0a29f0f7dcab65de1f72685e07bb47e data/unifiedbrewing/tags/item/blazing_provider.json
+1662ba1d50d8d4e411504478eec9380284ed9491 data/unifiedbrewing/tags/item/blood_bottle.json
+58725614ed61d7c4fae0fe1588fccb0963548dce data/unifiedbrewing/tags/item/blood_bucket.json
+0c8cb65a448fe2a0558ef80328a336e833414607 data/unifiedbrewing/tags/item/empty_potion_bottle.json
+72f79fd433e70e0e985eeaf0a3b024c742f95955 data/unifiedbrewing/tags/item/ink_bottle.json
+fab9c392b344cf5b1dde46e8c2ff079c8f6262d4 data/unifiedbrewing/tags/item/ladle.json
+66bb148aeae66a20ee5c490204d405c6105a05bf data/unifiedbrewing/tags/item/non_potion_brewable.json
