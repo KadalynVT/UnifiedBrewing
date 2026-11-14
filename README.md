@@ -73,8 +73,6 @@ From \[Let's Do] HerbalBrews
 
 ## TODO
 
-* test Alch flask from I and II
-
 * Alchemist Cauldron not saving cooking state
 
 * better view of empty tanks in Jade for Alchemist Cauldron

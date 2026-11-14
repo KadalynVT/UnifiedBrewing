@@ -25,6 +25,7 @@ eclipse
 /run
 .vscode
 .bup
+/icon
 
 # metadata (macOS)
 .DS_Store
